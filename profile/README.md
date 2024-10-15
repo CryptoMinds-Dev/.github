@@ -1,6 +1,6 @@
 # Welcome to CryptoMinds 👾
 
-![CryptoMinds](https://github.com/user-attachments/assets/9e002398-3746-4466-8cd2-1332fe663452)
+
 
 CryptoMinds.Dev is a thriving community of developers passionate about blockchain technology, Web 3.0, and decentralized applications (dApps). Our goal is to bring together like-minded individuals, share knowledge, collaborate on open-source projects, and build innovative solutions for the future of the decentralized web.
 
