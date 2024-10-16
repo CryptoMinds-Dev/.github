@@ -21,41 +21,44 @@
   </tr>
 </table>
 -->
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td rowspan="6" style="width: 20%; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/c0c38bd7-6032-4c2c-aa82-03b3b3238496" alt="CryptoMinds" style="width: 150px; height: 150px; border-radius: 15px; transform: rotate(90deg);" />
-    </td>
-    <td style="width: 80%; padding-left: 20px; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;">
-      <strong>Socials</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px; text-align: center; vertical-align: middle;">
-      - <strong>Community Manager</strong>: <a href="https://linkedin.com/in/dpvasani56">Darshan Vasani</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px; text-align: center; vertical-align: middle;">
-      - <strong>Email</strong>: cryptominds.developers@gmail.com
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px; text-align: center; vertical-align: middle;">
-      - <strong>Twitter</strong>: <a href="https://x.com/CryptoMindsDev">@CryptoMinds</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px; text-align: center; vertical-align: middle;">
-      - <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/company/cryptominds56/">CryptoMinds</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px; text-align: center; vertical-align: middle;">
-      - <strong>GitHub</strong>: <a href="https://github.com/CryptoMinds-Dev">CryptoMinds</a>
-    </td>
-  </tr>
-</table>
+<div style="margin: 0; padding: 0; width: 100vw; overflow-x: hidden;">
+  <table style="width: 100%; margin: 0; padding: 0; border-spacing: 0;">
+    <tr>
+      <td rowspan="6" style="width: 20%; vertical-align: top;">
+        <img src="https://github.com/user-attachments/assets/c0c38bd7-6032-4c2c-aa82-03b3b3238496" alt="CryptoMinds" style="width: 150px; height: 150px; border-radius: 15px; transform: rotate(90deg);" />
+      </td>
+      <td style="width: 80%; padding-left: 20px; text-align: center; vertical-align: center; font-size: 20px; font-weight: bold;">
+        <strong>Socials</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-left: 20px; text-align: center; vertical-align: center;">
+        - <strong>Community Manager</strong>: <a href="https://linkedin.com/in/dpvasani56">Darshan Vasani</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-left: 20px; text-align: center; vertical-align: center;">
+        - <strong>Email</strong>: cryptominds.developers@gmail.com
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-left: 20px; text-align: center; vertical-align: center;">
+        - <strong>Twitter</strong>: <a href="https://x.com/CryptoMindsDev">@CryptoMinds</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-left: 20px; text-align: center; vertical-align: center;">
+        - <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/company/cryptominds56/">CryptoMinds</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-left: 20px; text-align: center; vertical-align: center;">
+        - <strong>GitHub</strong>: <a href="https://github.com/CryptoMinds-Dev">CryptoMinds</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
