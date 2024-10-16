@@ -1,5 +1,26 @@
 # Welcome to CryptoMinds 👾
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td rowspan="5" style="width: 20%; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/c0c38bd7-6032-4c2c-aa82-03b3b3238496" alt="CryptoMinds" style="width: 150px; height: 150px; border-radius: 15px; transform: rotate(90deg);" />
+    </td>
+    <td style="width: 80%; padding-left: 20px;">Row 1 content</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 20px;">Row 2 content</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 20px;">Row 3 content</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 20px;">Row 4 content</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 20px;">Row 5 content</td>
+  </tr>
+</table>
+
 
 
 CryptoMinds.Dev is a thriving community of developers passionate about blockchain technology, Web 3.0, and decentralized applications (dApps). Our goal is to bring together like-minded individuals, share knowledge, collaborate on open-source projects, and build innovative solutions for the future of the decentralized web.
