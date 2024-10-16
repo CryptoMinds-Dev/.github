@@ -75,7 +75,8 @@ All of our projects are open-source under the MIT License. See the [LICENSE](./L
 
 - **Community Manager**: [Darshan Vasani](https://linkedin.com/in/dpvasani56)
 - **Email**: cryptominds.developers@gmail.com
-- **Twitter**: [@CryptoMindsDev](https://x.com/CryptoMindsDev)
-- **LinkedIn**: [CryptoMinds.Dev](https://www.linkedin.com/company/cryptominds56/)
+- **Twitter**: [@CryptoMinds](https://x.com/CryptoMindsDev)
+- **LinkedIn**: [CryptoMinds](https://www.linkedin.com/company/cryptominds56/)
+- **GitHub**: [CryptoMinds](https://github.com/CryptoMinds-Dev)
 
 Join us in building the decentralized future!
