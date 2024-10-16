@@ -70,7 +70,7 @@ CryptoMinds.Dev is a thriving community of developers passionate about blockchai
 At CryptoMinds, we focus on:
 
 - **Blockchain Development**: Creating decentralized applications (dApps) and smart contracts using blockchain technologies like Ethereum, Solana, and others.
-- ** Full Stack Ecom Solution**: We Build Full Stack Ecom Solution Based On Client Requirements.
+- **Full Stack Ecom Solution**: We Build Full Stack Ecom Solution Based On Client Requirements.
 - **Web 3.0**: Exploring the next generation of the internet, including decentralized identities, ownership, and trustless systems.
 - **Open Source Projects**: Building and contributing to a wide range of blockchain-based tools, libraries, and dApps.
 - **Community Growth**: Providing mentorship, learning resources, and networking opportunities for developers across the globe.
